@@ -16,6 +16,3 @@
 .prettierignore
 node_modules
 package-lock.json
-README-template.md 
-README.md
-style-guide.md
